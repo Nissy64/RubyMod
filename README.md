@@ -7,6 +7,7 @@
 - Downloadをクリック。
 - Modsフォルダに入れる。
 - これで完了だ!
+- これはForge向けに開発されたものです。
 
 ## English
 ### How to install
@@ -16,3 +17,4 @@
 - Click Download.
 - Put it in your Mods folder.
 - That's it!
+- This was developed for Forge.
